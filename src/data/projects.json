@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Netflix-Clone",
+    "imageSrc": "projects/project.png",
+    "description": "A Netflix clone built with React.js and Firebase, replicating the core features of the popular streaming platform. This project showcases user authentication, data fetching, and dynamic content rendering, providing a seamless and responsive user experience.",
+    "skills": ["React", "Firebase"],
+    "demo": "https://cloned-neflix.netlify.app/",
+    "source": "https://github.com/dattahari7/Netflix-Clone"
+  }
+]

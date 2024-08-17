@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Software Associate Engineer",
+    "organisation": "Capgemini",
+    "startDate": "July, 2022",
+    "endDate": "Present",
+    "experiences": ["Developed efficient, user-friendly and responsive enterprise web applications using React, Redux, Jest.", "Implemented and integrated RESTful APIs, facilitating seamless frontend-backend communication.", "Troubleshooted and resolved application issues, reducing defect rates by 30% and improving performance by 20%."],
+    "imageSrc": "history/capgemini.png"
+  }
+]
