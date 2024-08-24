@@ -50,15 +50,21 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    font-size: 12px;
   }
 
   .text {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 12px;
+  }
+  .link a {
+    font-size: 20px;
   }
 
   .links {
     align-items: center;
+    font-size: 12px;
   }
 }

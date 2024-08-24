@@ -3,7 +3,7 @@
     "title": "Tech-Blog",
     "imageSrc": "projects/techblog.png",
     "description": "Developed a tech blog platform that aggregates and showcases articles from various creators, built using React.js. Implemented user-friendly interfaces, Integrated Appwrite services for authentication, database management, and storage, ensuring a robust and scalable backend. This project demonstrates my ability to create dynamic web applications with a focus on performance and collaborative content management.",
-    "skills": ["React", "Appwrite"],
+    "skills": ["React", "Tailwind.css", "Javascript", "Appwrite Authentication","Appwrite database", "Appwrite storage"],
     "demo": "https://t-blogs.netlify.app/",
     "source": "https://github.com/dattahari7/tech-blog"
   },
@@ -11,7 +11,7 @@
     "title": "Netflix-Clone",
     "imageSrc": "projects/netflix-clone.png",
     "description": "A Netflix clone built with React.js and Firebase, replicating the core features of the popular streaming platform. This project showcases user authentication, data fetching, and dynamic content rendering, providing a seamless and responsive user experience.",
-    "skills": ["React", "Firebase"],
+    "skills": ["React","CSS", "Javascript", "Firebase authentication", "IMDB Movie Api"],
     "demo": "https://cloned-neflix.netlify.app/",
     "source": "https://github.com/dattahari7/Netflix-Clone"
   }
